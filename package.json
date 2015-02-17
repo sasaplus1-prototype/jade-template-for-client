@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "jade --client --no-debug *.jade"
+  },
+  "devDependencies": {
+    "jade": "^1.9.2"
+  }
+}
